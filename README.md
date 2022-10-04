@@ -3,7 +3,7 @@ Iframe task for medior position converted to Cypress framework
 
 - Used cy.intercept for waits
 - Used cypress-iframe plug in to enter the Iframe
-- Used cypress-file-upload to upload a file through a command in commands.js
+- Used cypress-file-upload plug in to upload a file through a command in commands.js
 
 
 Task:
